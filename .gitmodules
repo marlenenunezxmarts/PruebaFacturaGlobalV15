@@ -2,3 +2,6 @@
 	path = xmarts/l10n-mx-pos-global-invoice
 	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
 	branch = 15.0_test_gaston
+[submodule "addenda-loreal"]
+	path = addenda-loreal
+	url = git@github.com:xmarts/addenda-loreal.git
